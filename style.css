@@ -1,0 +1,155 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+#header {
+  background: linear-gradient(#bcc5ce, #939fae);
+  position: static;
+}
+#p1 {
+  font-size: 30px;
+  font-weight: 600;
+}
+#navbar {
+  background: linear-gradient(#dbd5ed, #f3e7ea);
+}
+#img1 {
+  height: 30px;
+  width: 100px;
+}
+#p2 {
+  font-weight: 400;
+  font-style: italic;
+}
+#img2 {
+  height: 325px;
+  align-items: flex-start;
+  justify-content: left;
+}
+/* #titlebar{
+    background-image: url("Blue_triangle_bg_image.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 400px;
+    padding: 0%;
+    /* background: linear-gradient(#5A6280,#CFE6D0,#577A7C,#727CA1); 
+ }*/
+/* #heading{
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+} */
+/* #img3{
+    height: 350px;
+}
+#content1{
+    height: 300px;
+    background: linear-gradient(#9896F0,#FBC8D5);
+    margin: 0%;
+}
+#text1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 600px;
+}  */
+#atlas {
+  height: 300px;
+}
+#titlebar {
+  background-image: url("Blue_triangle_bg_image.jpg");
+  background-repeat: round;
+  /* background-position: right; */
+  height: 200px;
+}
+#text1 {
+  margin-top: 40px;
+  font-weight: 400;
+  font-size: 25px;
+  margin-left: 500px;
+  color: yellow;
+}
+#text2 {
+  font-weight: bolder;
+}
+#text3 {
+  margin-top: 50px;
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 500px;
+  color: whitesmoke;
+}
+#pdfupload {
+  height: 800px;
+  background: linear-gradient(130deg, #9896f0, #fbc8d5);
+}
+#text4 {
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+#table {
+  background-image: url("compass-bg.jpg");
+  height: 600px;
+}
+#text5 {
+  font-size: 50px;
+  font-weight: 400;
+}
+#text6 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+#col1 {
+  background-color: #f1c40f;
+  color: white;
+}
+#col2 {
+  background-color: #e67e22;
+  color: whitesmoke;
+}
+#td1 {
+  font-size: 30px;
+  background-color: whitesmoke;
+  color: green;
+}
+#td2 {
+  background-color: whitesmoke;
+  color: black;
+  font-size: 30px;
+}
+#head1 {
+  background-color: #ccd1d1;
+}
+#mark {
+  background-color: whitesmoke;
+  color: green;
+}
+#mark1 {
+  background-color: whitesmoke;
+  color: red;
+}
+#button {
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#cardrow{
+  background-color: aqua;
+  height: 700px;
+}
+#card-header{
+  background-color: #3333ff;
+  color: white;
+}
+#text10{
+  text-align: justify;
+  
+}
